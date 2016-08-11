@@ -1,6 +1,9 @@
+
+### Android template
 # Built application files
 *.apk
 *.ap_
+*.idea
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -38,3 +41,4 @@ captures/
 
 # Keystore files
 *.jks
+
